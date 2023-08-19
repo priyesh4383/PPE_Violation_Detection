@@ -1,0 +1,420 @@
+
+ 22:22:51
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:22:52
+ Total Detections: 1
+ Detections per class: 1 safe, 
+###########
+
+ 22:22:52
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:22:53
+ Total Detections: 1
+ Detections per class: 1 no helmet, 
+###########
+
+ 22:22:53
+ Total Detections: 2
+ Detections per class: 2 no helmets, 
+###########
+
+ 22:22:54
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:22:54
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:22:55
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:22:55
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:22:56
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:22:56
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:22:56
+ Total Detections: 3
+ Detections per class: 2 safes, 1 unsafe, 
+###########
+
+ 22:22:57
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:22:57
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:22:58
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:22:58
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:22:59
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:00
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:00
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:01
+ Total Detections: 1
+ Detections per class: 1 no helmet, 
+###########
+
+ 22:23:01
+ Total Detections: 1
+ Detections per class: 1 no helmet, 
+###########
+
+ 22:23:02
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:02
+ Total Detections: 2
+ Detections per class: 2 no helmets, 
+###########
+
+ 22:23:03
+ Total Detections: 1
+ Detections per class: 1 no helmet, 
+###########
+
+ 22:23:03
+ Total Detections: 1
+ Detections per class: 1 no helmet, 
+###########
+
+ 22:23:04
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:04
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:05
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:05
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:05
+ Total Detections: 1
+ Detections per class: 1 safe, 
+###########
+
+ 22:23:06
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:06
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:07
+ Total Detections: 2
+ Detections per class: 2 no helmets, 
+###########
+
+ 22:23:07
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:08
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:08
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:09
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:09
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:10
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:10
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:11
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:11
+ Total Detections: 1
+ Detections per class: 1 safe, 
+###########
+
+ 22:23:12
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:12
+ Total Detections: 2
+ Detections per class: 1 safe, 1 unsafe, 
+###########
+
+ 22:23:13
+ Total Detections: 3
+ Detections per class: 2 safes, 1 unsafe, 
+###########
+
+ 22:23:13
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:14
+ Total Detections: 1
+ Detections per class: 1 no helmet, 
+###########
+
+ 22:23:14
+ Total Detections: 1
+ Detections per class: 1 no helmet, 
+###########
+
+ 22:23:15
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:16
+ Total Detections: 1
+ Detections per class: 1 safe, 
+###########
+
+ 22:23:17
+ Total Detections: 2
+ Detections per class: 2 no helmets, 
+###########
+
+ 22:23:17
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:18
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:18
+ Total Detections: 1
+ Detections per class: 1 safe, 
+###########
+
+ 22:23:19
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:19
+ Total Detections: 1
+ Detections per class: 1 safe, 
+###########
+
+ 22:23:20
+ Total Detections: 1
+ Detections per class: 1 safe, 
+###########
+
+ 22:23:20
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:20
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:21
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:22
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:22
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:23
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:23
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:24
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:24
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:25
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:25
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:26
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:26
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:27
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:27
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:27
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:28
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:28
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:29
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:29
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:30
+ Total Detections: 1
+ Detections per class: 1 safe, 
+###########
+
+ 22:23:30
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:31
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:31
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:32
+ Total Detections: 2
+ Detections per class: 1 no helmet, 1 safe, 
+###########
+
+ 22:23:32
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
+
+ 22:23:33
+ Total Detections: 2
+ Detections per class: 2 safes, 
+###########
